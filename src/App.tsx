@@ -1,7 +1,6 @@
 import "./App.css";
-import Hero from "./components/Hero";
-//@ts-ignore
 import Demo from "./components/Demo";
+import Hero from "./components/Hero";
 
 function App() {
   return (
